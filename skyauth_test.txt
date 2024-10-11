@@ -1,5 +1,5 @@
-Process: verse ui.vmp.exe
-Module: verse ui.vmp.exe
+Process: verse_ui.exe
+Module: verse_ui.exe
 
 Patches:
 277361, 232, 144
