@@ -1,0 +1,9 @@
+Process: verse ui.vmp.exe
+Module: verse ui.vmp.exe
+
+Patches:
+277361, 232, 144
+277362, 138, 144
+277363, 60, 144
+277364, 8, 144
+277365, 0, 144
