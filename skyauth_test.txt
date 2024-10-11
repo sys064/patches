@@ -1,5 +1,5 @@
-Process: verse_ui.exe
-Module: verse_ui.exe
+Process: Verse_ui.exe
+Module: Verse_ui.exe
 
 Patches:
 277361, 232, 144
