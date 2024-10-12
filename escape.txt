@@ -1,0 +1,5 @@
+Process: escape.exe
+Module: escape.exe
+
+Patches:
+172308, 117, 235
