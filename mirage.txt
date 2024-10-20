@@ -1,0 +1,7 @@
+Process: mirage.exe
+Module: mirage.exe
+
+Patches:
+475232, 232, 233
+475233, 171, 17
+475234, 11, 6
