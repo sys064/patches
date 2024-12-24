@@ -1,0 +1,6 @@
+Process: ExeTools-VGBypass-2PC.exe
+Module: ExeTools-VGBypass-2PC.exe
+
+Patches:
+36509, 117, 235
+211041, 116, 235
