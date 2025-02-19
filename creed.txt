@@ -1,4 +1,4 @@
-Process: Creed-Loader.exe.exe
+Process: Creed-Loader.exe
 Module: Creed-Loader.exe
 
 Patches:
