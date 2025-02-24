@@ -1,0 +1,8 @@
+Process: downloader.exe
+Module: downloader.exe
+
+Patches:
+23315, 15, 233
+23316, 133, 17
+23317, 16, 1
+23318, 1, 0
